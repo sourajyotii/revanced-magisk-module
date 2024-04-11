@@ -1,21 +1,11 @@
-
-
-[Youtube Extended]
+[YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
-included-patches = "'Custom branding'"
-
-
-
-[Youtube Music Revanced]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
 arch = "arm64-v8a"
-
+included-patches = "'Add splash animation' 'Premium heading'"
+excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'MicroG support'"
 
 
 
