@@ -1,10 +1,11 @@
 [YouTube]
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "anddea/revanced-patches"
+build-mode = "both"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "arm64-v8a"
-included-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
+included-patches = ""
 excluded-patches = "'Theme'"
 
 [Music]
@@ -12,4 +13,4 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
-included-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
+included-patches = ""
